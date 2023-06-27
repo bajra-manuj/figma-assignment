@@ -1,0 +1,21 @@
+/* .nav-link:link { */
+/*   font-size: 1.2rem; */
+/* } */
+
+/* * { */
+/*   outline-style: dotted; */
+/* } */
+body {
+  background-image: url("/img/Background-4.png");
+}
+
+.ash-text {
+  color: #858a8f;
+}
+.card img {
+  width: 80px;
+  height: 80px;
+}
+li > a > span {
+  font-weight: 600;
+}
